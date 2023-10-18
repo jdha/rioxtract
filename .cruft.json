@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/ecmwf-projects/cookiecutter-conda-package",
+  "commit": "22b85d3aca63d05f4a19f1a531bcea311617f4cd",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "rioxtract",
+      "project_slug": "rioxtract",
+      "project_short_description": "Boilerplate to create a Python package based on conda-forge",
+      "copyright_holder": "European Union",
+      "copyright_year": "2023",
+      "mypy_strict": false,
+      "integration_tests": true,
+      "_template": "https://github.com/ecmwf-projects/cookiecutter-conda-package"
+    }
+  },
+  "directory": null
+}
